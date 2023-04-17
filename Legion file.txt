@@ -1,0 +1,1 @@
+Imagine you're playing with a remote-controlled car. Sometimes, the car might get stuck in a corner or run out of battery, and you need to handle those situations. In Java, when something goes wrong while a program is running, we call it an "exception." To handle these exceptions, we use try, catch, and finally blocks.

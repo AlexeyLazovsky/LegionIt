@@ -1,0 +1,15 @@
+//package lesson4;
+//
+//public class Main {
+//    public static void main(String[] args) {
+//        ArrayExamples arrayExamples = new ArrayExamples();
+//         arrayExamples.hashSetExample();
+//        //  arrayExamples.integerArray();
+//        // arrayExamples.stringsArrayWithSize();
+//        //arrayExamples.arrayListExample();
+//       arrayExamples.arrayListSortingExample();
+//        //arrayExamples.hashMapExample();
+//     // arrayExamples.removeDuplicates();
+//        arrayExamples.hashMapExample();
+//    }
+//}
